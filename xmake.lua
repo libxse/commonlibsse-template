@@ -31,7 +31,7 @@ target("commonlibsse-template")
     -- add commonlibsse plugin
     add_rules("commonlibsse.plugin", {
         name = "commonlibsse-template",
-        author = "qudix",
+        author = "libxse",
         description = "SKSE64 plugin template using CommonLibSSE"
     })
 
