@@ -20,9 +20,6 @@ add_rules("plugin.vsxmake.autoupdate")
 -- set policies
 set_policy("package.requires_lock", true)
 
--- set configs
-set_config("skyrim_ae", true)
-
 -- targets
 target("commonlibsse-template")
     -- add dependencies to target
