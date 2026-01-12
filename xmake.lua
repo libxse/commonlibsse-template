@@ -1,6 +1,3 @@
--- set minimum xmake version
-set_xmakever("3.0.0")
-
 -- include subprojects
 includes("lib/commonlibsse")
 
